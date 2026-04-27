@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Doualane Tarek, a Network Administration and Security (ASRI) student — Double Degree Algeria 🇩🇿 / Canada 🇨🇦 (Sherbrooke) (in progress).
+I'm Doualane Tarek, a Network Administration and Security (ASRI) student — Double Degree Algeria 🇩🇿 / Canada 🇨🇦 (in progress).
 
 Passionate about systems, networking and cybersecurity. I’m currently building strong foundations in Linux, Windows environments and network fundamentals (CCNA 1–3 in progress).
 
@@ -22,9 +22,13 @@ We can be in touch here :
 Tools & Tech 
 
 • Linux, Kali Linux, Windows
+
 • Packet Tracer
+
 • VSCode
+
 • Word / Excel
+
 • Vmbox
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,5 +36,7 @@ Tools & Tech
 Fun facts about ME
 
 • I enjoy making beats, u can say that i'm a beatmaker :D
+
 • I play Video Games a lot
+
 • I like cats
