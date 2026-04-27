@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Doualane Tarek, a Network Administration and Security (ASRI) student — Double Degree Algeria 🇩🇿 / Canada 🇨🇦 (in progress).
+I'm Doualane Tarek, a Network Administration and Security (ASRI) student | Cybersecurity Oriented — Double Degree Algeria 🇩🇿 / Canada 🇨🇦 (in progress).
 
 Passionate about systems, networking and cybersecurity. I’m currently building strong foundations in Linux, Windows environments and network fundamentals (CCNA 1–3 in progress).
 
